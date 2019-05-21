@@ -44,3 +44,11 @@ No of Moves     No. of Stars
 ## Contact us
 
 * For further explaination and technicalities i can be contacted at dhirendrapratapsingh398@gmail.com.
+
+#Priviews
+
+![Screenshot from 2019-05-21 16-59-17](https://user-images.githubusercontent.com/32532380/58092624-30a20900-7bea-11e9-8daf-3ff32e6600f2.png)
+![Screenshot from 2019-05-21 17-00-41](https://user-images.githubusercontent.com/32532380/58092625-30a20900-7bea-11e9-8f2d-eafbbe915af1.png)
+![Screenshot from 2019-05-21 17-00-42](https://user-images.githubusercontent.com/32532380/58092628-313a9f80-7bea-11e9-8f0a-cd18d6819f40.png)
+![Screenshot from 2019-05-21 17-00-49](https://user-images.githubusercontent.com/32532380/58092631-313a9f80-7bea-11e9-9104-92da57c11fc3.png)
+
